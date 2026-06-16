@@ -1,5 +1,8 @@
 **Sri Ram Reddy Padala | AI Engineer & Full Stack Developer**
-
+     _🌐 Portfolio: https://www.sriramreddy.dev  
+     📧 Email: connect@sriramreddy.dev  
+     💼 LinkedIn: https://linkedin.com/in/sri-ram-reddy-padala-b334512bb
+_
 **💫 About Me**
 
 **🔭 Currently Working On**
