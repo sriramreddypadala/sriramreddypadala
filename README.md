@@ -1,7 +1,6 @@
 **Sri Ram Reddy Padala | AI Engineer & Full Stack Developer**
 
-**💫 **About Me**
-**
+**💫 About Me**
 
 **🔭 Currently Working On**
 Architecting and developing enterprise-oriented full-stack applications, including a Learning Management System (LMS) and a role-based Exam Management Platform using React, Tailwind CSS, Node.js, Express, and MongoDB with a strong focus on scalability, maintainability, and performance.
@@ -24,7 +23,7 @@ I approach academic and personal projects with an enterprise mindset, transformi
 
 **🌐 Connect With Me**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sri-ram-reddy-padala-b334512bb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:connect@sriramreddy.dev) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sri-ram-reddy-padala-b334512bb)            [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:connect@sriramreddy.dev) 
 
 #🚀 Featured Projects
 🧠 MindMate
@@ -54,13 +53,11 @@ Interactive language learning platform focused on engagement, accessibility, and
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-**🌐Portfolio
-**
-https://www.sriramreddy.dev
+**🌐Portfolio   :    https://www.sriramreddy.dev**
 
-**📧 Contact**
 
-connect@sriramreddy.dev
+**📧 Contact     :   connect@sriramreddy.dev**
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sriramreddypadala&limit=5&theme=dark&combine_all_yearly_contributions=true)
