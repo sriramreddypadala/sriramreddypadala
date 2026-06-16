@@ -54,7 +54,7 @@ Interactive language learning platform focused on engagement, accessibility, and
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-**🌐 Portfolio
+**🌐Portfolio
 **
 https://www.sriramreddy.dev
 
